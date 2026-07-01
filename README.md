@@ -108,15 +108,15 @@ The project includes the following visualizations:
 
 ### Price Distribution
 
-![Price Distribution](figures/price_distribution.png)
+![Price Distribution](price_distribution.png)
 
 ### Price vs Apartment Size
 
-![Price vs Area](figures/price_vs_area.png)
+![Price vs Area](price_vs_area.png)
 
 ### Correlation Matrix
 
-![Correlation](figures/correlation_matrix.png)
+![Correlation](correlation_matrix.png)
 
 ---
 
